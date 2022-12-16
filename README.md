@@ -9,7 +9,7 @@ Foi desenvolvido uma API e um banco de dados para a produção de conteúdo para
 Clone o repositório:
 
 ```
-git clone git@github.com:jpoliveiramateus/blogs-api.git
+git@github.com:OsvaldoHenriqueSouza/Blogs-API.git
 ```
 <details>
   <summary><strong>🐋 Rodando no Docker vs Localmente</strong></summary>
